@@ -1,4 +1,5 @@
-mport java.util.Scanner;
+#java odd program
+import java.util.Scanner;
 
 class CheckEvenOdd
 {
